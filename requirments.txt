@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pypdf
+pytesseract
+opencv-python
+Pillow
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+requests
